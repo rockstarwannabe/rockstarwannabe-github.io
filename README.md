@@ -1,2 +1,2 @@
 # rockstarwannabe-github.io
-project latihan
+slicing
